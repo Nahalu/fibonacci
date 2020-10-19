@@ -13,4 +13,5 @@ internal class Program
         stopwatch.Stop();
         Console.Write($"Elapsed seconds: {stopwatch.Elapsed.TotalSeconds}");
     }
+
 }
